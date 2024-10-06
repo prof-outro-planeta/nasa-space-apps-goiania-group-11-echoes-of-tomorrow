@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100">
+  <rect width="300" height="100" fill="url(#grad)" />
+  <text x="150" y="40" font-family="Arial, sans-serif" font-size="24" fill="white" text-anchor="middle">ECHOES OF</text>
+  <text x="150" y="70" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="middle">TOMORROW</text>
+  <path d="M50,80 Q150,20 250,80" stroke="white" stroke-width="2" fill="none" />
+  <circle cx="50" cy="80" r="3" fill="white" />
+  <circle cx="150" cy="20" r="3" fill="white" />
+  <circle cx="250" cy="80" r="3" fill="white" />
+</svg>

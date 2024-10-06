@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 1200 800"
+   style="enable-background:new 0 0 1200 800;"
+   xml:space="preserve"
+   id="svg363"
+   sodipodi:docname="background.jpg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs367"><filter
+     style="color-interpolation-filters:sRGB;"
+     inkscape:label="Color Shift"
+     id="filter7142"
+     x="0"
+     y="0"
+     width="1"
+     height="1"><feColorMatrix
+       type="hueRotate"
+       values="360"
+       result="color1"
+       id="feColorMatrix7138" /><feColorMatrix
+       type="saturate"
+       values="1"
+       result="fbSourceGraphic"
+       id="feColorMatrix7140" /><feColorMatrix
+       result="fbSourceGraphicAlpha"
+       in="fbSourceGraphic"
+       values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+       id="feColorMatrix7150" /><feColorMatrix
+       id="feColorMatrix7152"
+       type="hueRotate"
+       values="360"
+       result="color1"
+       in="fbSourceGraphic" /><feColorMatrix
+       id="feColorMatrix7154"
+       type="saturate"
+       values="0"
+       result="color2" /></filter><filter
+     style="color-interpolation-filters:sRGB;"
+     inkscape:label="Color Shift"
+     id="filter7148"
+     x="0.078906607"
+     y="-0.0026857337"
+     width="0.84218679"
+     height="0.54862982"><feColorMatrix
+       type="hueRotate"
+       values="360"
+       result="color1"
+       id="feColorMatrix7144" /><feColorMatrix
+       type="saturate"
+       values="1"
+       result="fbSourceGraphic"
+       id="feColorMatrix7146" /><feColorMatrix
+       result="fbSourceGraphicAlpha"
+       in="fbSourceGraphic"
+       values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+       id="feColorMatrix7156" /><feColorMatrix
+       id="feColorMatrix7158"
+       type="hueRotate"
+       values="360"
+       result="color1"
+       in="fbSourceGraphic" /><feColorMatrix
+       id="feColorMatrix7160"
+       type="saturate"
+       values="0"
+       result="color2" /></filter></defs><sodipodi:namedview
+   id="namedview365"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="8"
+   inkscape:cx="62.6875"
+   inkscape:cy="241.1875"
+   inkscape:window-width="1920"
+   inkscape:window-height="991"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg363" />
+<g
+   id="Background"
+   style="filter:url(#filter7142)">
+	<rect
+   transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 1200 800)"
+   style="fill:#FCD2AE;"
+   width="1200"
+   height="800"
+   id="rect303" />
+</g>
+<g
+   id="Graphic_Elements"
+   style="filter:url(#filter7148)">
+	<g
+   id="g360">
+		<defs
+   id="defs307">
+			<rect
+   id="SVGID_1_"
+   width="1200"
+   height="800" />
+		</defs>
+		<clipPath
+   id="SVGID_00000003823033827367220940000013880655111980987536_">
+			<use
+   xlink:href="#SVGID_1_"
+   style="overflow:visible;"
+   id="use309" />
+		</clipPath>
+		<g
+   style="clip-path:url(#SVGID_00000003823033827367220940000013880655111980987536_);"
+   clip-path="url(#SVGID_00000003823033827367220940000013880655111980987536_)"
+   id="g358">
+			<g
+   style="opacity:0.78;"
+   id="g316">
+				<polygon
+   style="fill:#874835;"
+   points="982.104,605.316 788.427,800 1200,800 1200,420.134 1056.491,603.453     "
+   id="polygon312" />
+				<polygon
+   style="fill:#D88D6F;"
+   points="788.427,800 982.104,605.316 1056.491,603.453 1200,420.134 539.118,800     "
+   id="polygon314" />
+			</g>
+			<polygon
+   style="fill:#FFF2EE;"
+   points="0,387.243 0,800 836.167,800    "
+   id="polygon318" />
+			<circle
+   style="fill:none;stroke:#D68666;stroke-width:7.6536;stroke-miterlimit:10;"
+   cx="600"
+   cy="734.536"
+   r="712.431"
+   id="circle320" />
+			<g
+   id="g356">
+				
+					<line
+   style="fill:none;stroke:#FFF2EE;stroke-width:9.5352;stroke-miterlimit:10;"
+   x1="1257.58"
+   y1="816.429"
+   x2="-38.997"
+   y2="816.429"
+   id="line322" />
+				
+					<line
+   style="fill:none;stroke:#FFF2EE;stroke-width:9.0231;stroke-miterlimit:10;"
+   x1="1257.58"
+   y1="805.637"
+   x2="-38.997"
+   y2="805.637"
+   id="line324" />
+				
+					<line
+   style="fill:none;stroke:#FFF2EE;stroke-width:8.511;stroke-miterlimit:10;"
+   x1="1257.58"
+   y1="794.845"
+   x2="-38.997"
+   y2="794.845"
+   id="line326" />
+				
+					<line
+   style="fill:none;stroke:#FFF2EE;stroke-width:7.9988;stroke-miterlimit:10;"
+   x1="1257.58"
+   y1="784.054"
+   x2="-38.997"
+   y2="784.054"
+   id="line328" />
+				
+					<line
+   style="fill:none;stroke:#FFF2EE;stroke-width:7.4867;stroke-miterlimit:10;"
+   x1="1257.58"
+   y1="773.262"
+   x2="-38.997"
+   y2="773.262"
+   id="line330" />
+				
+					<line
+   style="fill:none;stroke:#FFF2EE;stroke-width:6.9746;stroke-miterlimit:10;"
+   x1="1257.58"
+   y1="762.47"
+   x2="-38.997"
+   y2="762.47"
+   id="line332" />
+				
+					<line
+   style="fill:none;stroke:#FFF2EE;stroke-width:6.4625;stroke-miterlimit:10;"
+   x1="1257.58"
+   y1="751.678"
+   x2="-38.997"
+   y2="751.678"
+   id="line334" />
+				
+					<line
+   style="fill:none;stroke:#FFF2EE;stroke-width:5.9504;stroke-miterlimit:10;"
+   x1="1257.58"
+   y1="740.886"
+   x2="-38.997"
+   y2="740.886"
+   id="line336" />
+				
+					<line
+   style="fill:none;stroke:#FFF2EE;stroke-width:5.4382;stroke-miterlimit:10;"
+   x1="1257.58"
+   y1="730.095"
+   x2="-38.997"
+   y2="730.095"
+   id="line338" />
+				
+					<line
+   style="fill:none;stroke:#FFF2EE;stroke-width:4.9261;stroke-miterlimit:10;"
+   x1="1257.58"
+   y1="719.303"
+   x2="-38.997"
+   y2="719.303"
+   id="line340" />
+				
+					<line
+   style="fill:none;stroke:#FFF2EE;stroke-width:4.414;stroke-miterlimit:10;"
+   x1="1257.58"
+   y1="708.511"
+   x2="-38.997"
+   y2="708.511"
+   id="line342" />
+				
+					<line
+   style="fill:none;stroke:#FFF2EE;stroke-width:3.9019;stroke-miterlimit:10;"
+   x1="1257.58"
+   y1="697.719"
+   x2="-38.997"
+   y2="697.719"
+   id="line344" />
+				
+					<line
+   style="fill:none;stroke:#FFF2EE;stroke-width:3.3897;stroke-miterlimit:10;"
+   x1="1257.58"
+   y1="686.927"
+   x2="-38.997"
+   y2="686.927"
+   id="line346" />
+				
+					<line
+   style="fill:none;stroke:#FFF2EE;stroke-width:2.8776;stroke-miterlimit:10;"
+   x1="1257.58"
+   y1="676.135"
+   x2="-38.997"
+   y2="676.135"
+   id="line348" />
+				
+					<line
+   style="fill:none;stroke:#FFF2EE;stroke-width:2.3655;stroke-miterlimit:10;"
+   x1="1257.58"
+   y1="665.344"
+   x2="-38.997"
+   y2="665.344"
+   id="line350" />
+				
+					<line
+   style="fill:none;stroke:#FFF2EE;stroke-width:1.8534;stroke-miterlimit:10;"
+   x1="1257.58"
+   y1="654.552"
+   x2="-38.997"
+   y2="654.552"
+   id="line352" />
+				
+					<line
+   style="fill:none;stroke:#FFF2EE;stroke-width:1.3412;stroke-miterlimit:10;"
+   x1="1257.58"
+   y1="643.76"
+   x2="-38.997"
+   y2="643.76"
+   id="line354" />
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
